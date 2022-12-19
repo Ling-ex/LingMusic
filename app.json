@@ -1,13 +1,13 @@
 {
-    "name": "ReyyYukki ",
+    "name": "HyperYukki ",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://telegra.ph/file/6d9c1f5e4acb05d24e784.jpg",
+    "logo": "https://telegra.ph/file/d59b8a4836988a11c772b.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
     "XYukki",
-    "ReyyXYukki",
+    "HyperXYukki",
     "telegram-bot",
     "pyrogram"
     ],
@@ -45,7 +45,7 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "851754691",
+        "value": "5050907047",
         "required": true
       },
       "STRING_SESSION": {
