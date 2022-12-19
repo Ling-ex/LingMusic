@@ -339,13 +339,13 @@ QU_B_2 : "ᴘʟᴀʏᴇᴅ {0} ᴏᴜᴛ ᴏғ {1} ᴍɪɴs"
 # Sudo Users [ If you are translating this to some other language .. you can leave all these strings in english language]
 
 #Sudo
-sudo_1 : "{0} Is a Member of the Prophet."
-sudo_2 : "Added **{0}** to Members of the Prophet." 
-sudo_3 : "Not From Members Prophet."
-sudo_4 : "Removing From Members of the Prophet "
-sudo_5 : "⭐️<u> **Lord:**</u>\n"
-sudo_6 : "\n⭐️<u> **Member of the Prophet:**</u>\n"
-sudo_7 : "No member of the Prophet"
+sudo_1 : "{0} Is a Member of the Servant."
+sudo_2 : "Added **{0}** to Members of the Servant." 
+sudo_3 : "Not From Members Servant."
+sudo_4 : "Removing From Members of the Servant "
+sudo_5 : "⭐️<u> **Big Boss:**</u>\n"
+sudo_6 : "\n⭐️<u> **Member of the Servant:**</u>\n"
+sudo_7 : "No member of the Servant"
 
 #Block
 block_1 : "{0} is already blocked from the bot."
