@@ -130,7 +130,7 @@ cplay_5 : "Ngan Saluran anu dirojong."
 cplay_6 : "Anjeun kedah janten **Pamilik** saluran[{0}] pikeun ngahubungkeun éta sareng grup ieu.\n**Pamilik Saluran:** @{1}\n\nAtawa anjeun tiasa numbu grup anjeun ka saluran éta sareng cobian sambungkeun sareng `/channelplay linked`"
 
 #Ulin
-play_1 : "🔥 Ngolah Paménta!"
+play_1 : "🔥 Ngolah Paménta maneh!"
 play_2 : "**📀 Modeu Puter Saluran**\n\n🔥 Ngolah Paménta!\n💌 **Saluran Numbu:** {0}"
 play_3 : "Gagal ngolah pamundut anjeun!"
 play_4 : "💂 **Admin Ngan Puter**\nNgan Pamaké Admin sareng Auth anu tiasa maénkeun musik dina grup ieu.\n\nGanti modeu liwat /playmode sareng upami anjeun parantos janten admin, muatkeun deui admincache ngalangkungan /admincache"
@@ -324,13 +324,13 @@ QU_B_2 : "ᴍᴀᴇɴ {0} ᴛɪɴᴀ {1} ᴍᴇɴɪᴛ"
 # Sudo Users [ If you are translating this to some other language .. you can leave all these strings in english language]
 
 #Sudo
-sudo_1 : "{0} geus jadi Anggota Nabi."
-sudo_2 : "Tambihkeun *{0}** ka Anggota Nabi."
-sudo_3 : "Henteu bagian tina Anggota Nabi."
-sudo_4 : "Dipiceun tina Anggota Nabi"
-sudo_5 : "👑<u> **Tuhan:**</u>\n"
-sudo_6 : "\n👨‍🚀<u> **Nabi:**</u>\n"
-sudo_7 : "Henteu aya Anggota Nabi"
+sudo_1 : "{0} geus jadi Pembantu."
+sudo_2 : "Tambihkeun *{0}** ka Anggota Pembantu."
+sudo_3 : "Henteu bagian tina Anggota Pembantu."
+sudo_4 : "Dipiceun jadi Jalma Gembel"
+sudo_5 : "👑<u> **Tuan Muda:**</u>\n"
+sudo_6 : "\n👨‍🚀<u> **Pembantu:**</u>\n"
+sudo_7 : "Henteu aya Anggota Pembantu"
 
 #Blok
 block_1 : "{0} geus dipeungpeuk tina bot."
