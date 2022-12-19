@@ -341,13 +341,13 @@ QU_B_2 : "Diputer {0} saka {1} Menit"
 # Sudo Users [ If you are translating this to some other language .. you can leave all these strings in english language]
 
 #Sudo
-sudo_1 : "{0} wis dadi Anggota Nabi."
-sudo_2 : "Ditambahake *{0}** Dadi Nabi."
-sudo_3 : "Ora bagean saka Anggota Nabi ."
-sudo_4 : "Dibusak saka Anggota Nabi "
-sudo_5 : "☀️<u> **Tuhan:**</u>\n"
-sudo_6 : "\n🌟<u> **Anggota Nabi:**</u>\n"
-sudo_7 : "Ora Dadi Anggota Nabi"
+sudo_1 : "{0} wis dadi Anggota Pembantu."
+sudo_2 : "Ditambahake *{0}** Dadi Pembantu."
+sudo_3 : "Ora bagean saka Anggota Pembantu."
+sudo_4 : "Dibusak saka Gembel "
+sudo_5 : "☀️<u> **Bos Besar:**</u>\n"
+sudo_6 : "\n🌟<u> **Pembantu:**</u>\n"
+sudo_7 : "Ora Dadi Anggota Pembantu"
 
 #Block
 block_1 : "{0} wis diblokir saka bot."
