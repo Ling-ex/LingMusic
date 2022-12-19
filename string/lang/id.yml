@@ -145,10 +145,10 @@ cplay_5 : "Hanya Channel yang didukung."
 cplay_6 : "Anda harus menjadi **Pemilik** Channel[{0}] untuk menghubungkannya dengan grup ini.\n**Pemilik Channel:** @{1}\n\nAtau Anda dapat menautkan grup Anda ke Channel itu lalu coba sambungkan dengan `/channelplay linked`"
 
 #Bermain
-play_1 : "**🔄 Processing!**"
-play_2 : "**🏷 Mode Putar Chanell**\n\n🔄 Memproses Query... Harap Tunggu!\n**Saluran Tertaut:** {0}"
+play_1 : "**🔄 Proses Bentar!**"
+play_2 : "**🏷 Mode Putar Chanell**\n\n🔄 Memproses Query... Harap Tunggu Dan Sabar!\n**Saluran Tertaut:** {0}"
 play_3 : "Gagal Memproses Query!"
-play_4 : "🖇 **Admin Only Play**\nHanya Admin dan Pengguna Auth yang dapat memutar musik di grup ini.\n\nUbah mode melalui /playmode dan jika Anda sudah menjadi admin, muat ulang admincache melalui /admincache"
+play_4 : "🖇 **Admin Only Play**\nHanya Admin dan Pengguna Auth yang dapat memutar musik di grup ini Dan Lu Bukan Siapa Siapa.\n\nUbah mode melalui /playmode dan jika Anda sudah menjadi admin, muat ulang admincache melalui /admincache"
 play_5 : "Gagal memproses file audio.\n\nUkuran File Audio Harus Kurang dari 100 mb"
 play_6 : "**Batas Durasi Terlampaui**\n\n**Durasi yang Diizinkan: *{0} menit\n**Durasi yang Diterima:** {1} jam"
 play_7 : "Maaf! Bot hanya mengizinkan panggilan video dalam jumlah terbatas karena masalah kelebihan CPU. Banyak obrolan lain menggunakan panggilan video sekarang. Coba beralih ke audio atau coba lagi nanti"
@@ -342,13 +342,13 @@ QU_B_2 : "ᴅɪᴍᴀɪɴᴋᴀɴ {0} ᴅᴀʀɪ {1} ᴍᴇɴɪᴛ"
 # Anggota Nabi [ Jika Anda menerjemahkan ini ke bahasa lain .. Anda dapat meninggalkan semua string ini dalam bahasa Inggris]
 
 #Sudo
-sudo_1 : "{0} sudah menjadi Nabi."
-sudo_2 : "Diangkat *{0}** Menjadi Nabi."
-sudo_3 : "Bukan bagian dari anggota Nabi."
-sudo_4 : "Diturunkan Pangkat Menjadi Manusia Biasa"
-sudo_5 : "☀️<u> **Tuhan:**</u>\n"
-sudo_6 : "\n🌟<u> **Anggota Nabi:**</u>\n"
-sudo_7 : "Tidak Ada Anggota Nabi"
+sudo_1 : "{0} sudah menjadi Pembantu."
+sudo_2 : "Diangkat *{0}** Menjadi Pembantu."
+sudo_3 : "Bukan bagian dari Pembantu."
+sudo_4 : "Diturunkan Pangkat Menjadi Gembel"
+sudo_5 : "☀️<u> **Bos Besar:**</u>\n"
+sudo_6 : "\n🌟<u> **Pembantu:**</u>\n"
+sudo_7 : "Tidak Ada Pembantu"
 
 #Memblokir
 block_1 : "{0} sudah diblokir dari bot."
