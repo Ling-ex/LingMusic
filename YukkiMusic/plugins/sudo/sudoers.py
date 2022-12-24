@@ -30,7 +30,7 @@ SUDOUSERS_COMMAND = get_command("SUDOUSERS_COMMAND")
 async def useradd(client, message: Message, _):
     if MONGO_DB_URI is None:
         return await message.reply_text(
-            "**Karena masalah privasi bot, Anda tidak dapat mengelola pengguna sudo saat Anda menggunakan Database XYukki.\n\n Harap isi MONGO_DB_URI Anda di vars Anda untuk menggunakan fitur ini**"
+            "**Karena masalah privasi bot, Anda tidak dapat mengelola pengguna sudo saat Anda menggunakan Database Hyper.\n\n Harap isi MONGO_DB_URI Anda di vars Anda untuk menggunakan fitur ini**"
         )
     if not message.reply_to_message:
         if len(message.command) != 2:
