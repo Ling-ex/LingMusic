@@ -1,4 +1,4 @@
-# Credits @Tonic880
+# Credits @Ling-ex
 # Recode @mahadappa
 
 name : Indonesia
@@ -80,8 +80,8 @@ admin_34 : "Gagal mencari seek saat ini."
 start_1 : "Terima kasih telah menerima saya di {0}.\n{1} masih hidup.\n\nUntuk bantuan atau bantuan apa pun, periksa grup dan saluran dukungan kami."
 start_2 : "Halo, Nama saya {0}.\n\nSaya bot streaming telegram dengan beberapa fitur berguna. Platform pendukung seperti Youtube, Spotify, Resso, AppleMusic , Soundcloud dll.\n\nJangan ragu untuk menambahkan saya ke kelompokmu."
 start_3 : "Selamat datang di {0}\n\nSaya tidak memerlukan **izin admin** untuk bekerja (sampai diminta).\n\nNama Pengguna Asisten:- @{1}\nID Asisten:- {2} "
-start_4 : "Selamat datang Tuhanku  [{1}]."
-start_5 : "Selamat datang Tuhanku  [{1}]."
+start_4 : "Selamat datang Tuan Muda  [{1}]."
+start_5 : "Selamat datang Tuan Muda  [{1}]."
 start_6 : "❗️ **Diperlukan Supergrup** ️\n\nHarap ubah **grup** Anda menjadi **grup super** lalu tambahkan saya kembali.\n\n**Bagaimana cara membuat grup super?**\n✅ Jadikan riwayat obrolan grup Anda **terlihat** sekali."
 start_7 : "**Obrolan Daftar Hitam**\n\nObrolan Anda telah dimasukkan dalam daftar hitam oleh Bot. Silakan minta SudoUser untuk memasukkan obrolan ke daftar putih terlebih dahulu. Periksa [Sudolist dari sini]({0})"
 
@@ -145,9 +145,9 @@ cplay_5 : "Hanya Channel yang didukung."
 cplay_6 : "Anda harus menjadi **Pemilik** Channel[{0}] untuk menghubungkannya dengan grup ini.\n**Pemilik Channel:** @{1}\n\nAtau Anda dapat menautkan grup Anda ke Channel itu lalu coba sambungkan dengan `/channelplay linked`"
 
 #Bermain
-play_1 : "**🔄 Proses Bentar!**"
-play_2 : "**🏷 Mode Putar Chanell**\n\n🔄 Memproses Query... Harap Tunggu Dan Sabar!\n**Saluran Tertaut:** {0}"
-play_3 : "Gagal Memproses Query!"
+play_1 : "**🔄 Sedang Memproses Lagu!**"
+play_2 : "**🏷 Mode Putar Chanell**\n\n🔄 Memproses Lagu... Harap Tunggu Dan Sabar!\n**Saluran Tertaut:** {0}"
+play_3 : "Gagal Memproses Permintaan Anda!"
 play_4 : "🖇 **Admin Only Play**\nHanya Admin dan Pengguna Auth yang dapat memutar musik di grup ini Dan Lu Bukan Siapa Siapa.\n\nUbah mode melalui /playmode dan jika Anda sudah menjadi admin, muat ulang admincache melalui /admincache"
 play_5 : "Gagal memproses file audio.\n\nUkuran File Audio Harus Kurang dari 100 mb"
 play_6 : "**Batas Durasi Terlampaui**\n\n**Durasi yang Diizinkan: *{0} menit\n**Durasi yang Diterima:** {1} jam"
@@ -339,7 +339,7 @@ SA_B_8 : "🤖 sᴛᴀᴛɪsᴛɪᴋ ʙᴏᴛ"
 QU_B_1 : "📑 ᴅᴀғᴛᴀʀ ᴀɴᴛʀɪᴀɴ"
 QU_B_2 : "ᴅɪᴍᴀɪɴᴋᴀɴ {0} ᴅᴀʀɪ {1} ᴍᴇɴɪᴛ"
 
-# Anggota Nabi [ Jika Anda menerjemahkan ini ke bahasa lain .. Anda dapat meninggalkan semua string ini dalam bahasa Inggris]
+# Pembantu [ Jika Anda menerjemahkan ini ke bahasa lain .. Anda dapat meninggalkan semua string ini dalam bahasa Inggris]
 
 #Sudo
 sudo_1 : "{0} sudah menjadi Pembantu."
